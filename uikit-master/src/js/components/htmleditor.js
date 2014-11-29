@@ -14,6 +14,8 @@
 
 })(function($, UI) {
 
+    "use strict";
+
     var editors = [];
 
     UI.component('htmleditor', {
@@ -139,7 +141,7 @@
 
             this.debouncedRedraw = UI.Utils.debounce(function () { $this.redraw(); }, 5);
 
-            this.on('init', function() {
+            this.on('uk.component.init', function() {
                 $this.redraw();
             });
 
@@ -599,8 +601,9 @@
     });
 
     // init code
-    $(function() {
-        $('textarea[data-uk-htmleditor]').each(function() {
+    UI.ready(function(context) {
+
+        $('textarea[data-uk-htmleditor]', context).each(function() {
             var editor = $(this), obj;
 
             if (!editor.data('htmleditor')) {
