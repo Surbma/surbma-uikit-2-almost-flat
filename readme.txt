@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: uikit, buttons, font awesome, icon, tab, accordion
 Requires at least: 3.1
 Tested up to: 4.0
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,11 +51,16 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.2.0 =
+
+- First commit to the official WordPress repo.
+- Deleted uikit-master folder from plugin.
+- Using CodeKit Framework for uikit-master.
+
 = 1.1.0 =
 
 - UIkit 2.12.0
 - Added Utility component
-- First commit to the official WordPress repo.
 
 = 1.0.0 =
 
