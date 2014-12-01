@@ -1,4 +1,4 @@
 Surbma - UIkit 2 - Almost Flat
 ==============================
 
-UIkit 2 - A lightweight and modular front-end framework.
+Some useful UIkit 2 styles for your site.
