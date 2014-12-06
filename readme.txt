@@ -57,6 +57,10 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.3.0 =
+
+- Added Text component
+
 = 1.2.2 =
 
 - Added pot file for localization.
