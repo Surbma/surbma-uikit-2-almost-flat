@@ -17,6 +17,7 @@ This plugin does only one thing: it enques some css and js files for you to use 
 UIkit theme: Almost Flat
 
 UIkit Components included with this plugin:
+
 - Button
 - Dropdown
 - Icon (Font Awesome)
@@ -55,6 +56,12 @@ Nope. This is only a selection of the most used styles from UIkit.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.2.2 =
+
+- Added pot file for localization.
+- Fixed $allowedposttags missing global attributes.
+- Added $allowedtags to enable icons in post titles and menu names.
 
 = 1.2.1 =
 
