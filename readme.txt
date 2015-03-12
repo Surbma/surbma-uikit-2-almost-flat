@@ -1,10 +1,10 @@
 === Surbma - UIkit 2 - Almost Flat ===
 Contributors: Surbma
 Donate link: http://surbma.com/
-Tags: uikit, buttons, font awesome, icon, tab, accordion
+Tags: uikit, buttons, font awesome, icon, tab, accordion, modal
 Requires at least: 3.1
-Tested up to: 4.0
-Stable tag: 1.3.0
+Tested up to: 4.1
+Stable tag: 1.4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,7 @@ UIkit Components included with this plugin:
 - Button
 - Dropdown
 - Icon (Font Awesome)
+- Modal
 - Nav
 - Panel
 - Switcher
@@ -57,9 +58,15 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.4.0 =
+
+- Added Modal component.
+- Added Close component.
+- Tested up to WordPress 4.1 version.
+
 = 1.3.0 =
 
-- Added Text component
+- Added Text component.
 
 = 1.2.2 =
 

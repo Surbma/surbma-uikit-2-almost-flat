@@ -5,7 +5,7 @@ Plugin Name: Surbma - UIkit 2 - Almost Flat
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Some useful UIkit 2 styles for your site.
 
-Version: 1.3.0
+Version: 1.4.0
 
 Author: Surbma
 Author URI: http://surbma.com/
