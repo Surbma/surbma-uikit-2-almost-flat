@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: uikit, buttons, font awesome, icon, tab, accordion, modal
 Requires at least: 3.1
 Tested up to: 4.1
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,11 @@ Nope. This is only a selection of the most used styles from UIkit.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.4.1 =
+
+- Fix localization.
+- Prevent direct access to the plugin.
 
 = 1.4.0 =
 
